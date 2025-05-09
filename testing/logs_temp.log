@@ -1,0 +1,120 @@
+🏆 Loaded best model from: ..\outputs\checkpoints3\epoch_95_loss_0.01418081.pt
+
+📊 Evaluation Summary:
+🔹 R² Score     : 0.9458
+🔹 MSE          : 0.000076
+🔹 RMSE         : 0.008708
+🔹 MAE          : 0.006571
+🔹 MAPE         : 2.39%
+🔹 NMAE         : 3.8515
+🔹 Cars tested  : 1158 / 1158
+💾 Saved predictions to: ../outputs/eval/cd_predictions_test_design_ids.csv
+------------------------------------------------------------
+🏆 Loaded best model from: ..\outputs\checkpoints3\epoch_93_loss_0.01540153.pt
+
+📊 Evaluation Summary:
+🔹 R² Score     : 0.9496
+🔹 MSE          : 0.000070
+🔹 RMSE         : 0.008395
+🔹 MAE          : 0.006270
+🔹 MAPE         : 2.29%
+🔹 NMAE         : 3.6753
+🔹 Cars tested  : 1158 / 1158
+💾 Saved predictions to: ../outputs/eval/cd_predictions_test_design_ids.csv
+------------------------------------------------------------
+🏆 Loaded best model from: ..\outputs\checkpoints3\epoch_79_loss_0.01766285.pt
+
+📊 Evaluation Summary:
+🔹 R² Score     : 0.9507
+🔹 MSE          : 0.000069
+🔹 RMSE         : 0.008304
+🔹 MAE          : 0.006298
+🔹 MAPE         : 2.30%
+🔹 NMAE         : 3.6914
+🔹 Cars tested  : 1158 / 1158
+💾 Saved predictions to: ../outputs/eval/cd_predictions_test_design_ids.csv
+------------------------------------------------------------
+🏆 Loaded best model from: ..\outputs\checkpoints3\epoch_72_loss_0.02025595.pt
+
+📊 Evaluation Summary:
+🔹 R² Score     : 0.9479
+🔹 MSE          : 0.000073
+🔹 RMSE         : 0.008534
+🔹 MAE          : 0.006547
+🔹 MAPE         : 2.38%
+🔹 NMAE         : 3.8374
+🔹 Cars tested  : 1158 / 1158
+💾 Saved predictions to: ../outputs/eval/cd_predictions_test_design_ids.csv
+------------------------------------------------------------
+🏆 Loaded best model from: ..\outputs\checkpoints3\epoch_71_loss_0.02047008.pt
+
+📊 Evaluation Summary:
+🔹 R² Score     : 0.9462
+🔹 MSE          : 0.000075
+🔹 RMSE         : 0.008678
+🔹 MAE          : 0.006611
+🔹 MAPE         : 2.41%
+🔹 NMAE         : 3.8750
+🔹 Cars tested  : 1158 / 1158
+💾 Saved predictions to: ../outputs/eval/cd_predictions_test_design_ids.csv
+------------------------------------------------------------
+🏆 Loaded best model from: ..\outputs\checkpoints3\epoch_68_loss_0.02162494.pt
+
+📊 Evaluation Summary:
+🔹 R² Score     : 0.9525
+🔹 MSE          : 0.000066
+🔹 RMSE         : 0.008148
+🔹 MAE          : 0.006107
+🔹 MAPE         : 2.23%
+🔹 NMAE         : 3.5798
+🔹 Cars tested  : 1158 / 1158
+💾 Saved predictions to: ../outputs/eval/cd_predictions_test_design_ids.csv
+------------------------------------------------------------
+🏆 Loaded best model from: ..\outputs\checkpoints3\epoch_67_loss_0.02240883.pt
+
+📊 Evaluation Summary:
+🔹 R² Score     : 0.9469
+🔹 MSE          : 0.000074
+🔹 RMSE         : 0.008622
+🔹 MAE          : 0.006482
+🔹 MAPE         : 2.39%
+🔹 NMAE         : 3.7993
+🔹 Cars tested  : 1158 / 1158
+💾 Saved predictions to: ../outputs/eval/cd_predictions_test_design_ids.csv
+------------------------------------------------------------
+🏆 Loaded best model from: ..\outputs\checkpoints3\epoch_66_loss_0.02210539.pt
+
+📊 Evaluation Summary:
+🔹 R² Score     : 0.9419
+🔹 MSE          : 0.000081
+🔹 RMSE         : 0.009015
+🔹 MAE          : 0.006784
+🔹 MAPE         : 2.49%
+🔹 NMAE         : 3.9763
+🔹 Cars tested  : 1158 / 1158
+💾 Saved predictions to: ../outputs/eval/cd_predictions_test_design_ids.csv
+------------------------------------------------------------
+🏆 Loaded best model from: ..\outputs\checkpoints3\epoch_63_loss_0.02312163.pt
+
+📊 Evaluation Summary:
+🔹 R² Score     : 0.9483
+🔹 MSE          : 0.000072
+🔹 RMSE         : 0.008506
+🔹 MAE          : 0.006515
+🔹 MAPE         : 2.39%
+🔹 NMAE         : 3.8188
+🔹 Cars tested  : 1158 / 1158
+💾 Saved predictions to: ../outputs/eval/cd_predictions_test_design_ids.csv
+------------------------------------------------------------
+🏆 Loaded best model from: ..\outputs\checkpoints3\epoch_48_loss_0.02956106.pt
+
+📊 Evaluation Summary:
+🔹 R² Score     : 0.9448
+🔹 MSE          : 0.000077
+🔹 RMSE         : 0.008789
+🔹 MAE          : 0.006563
+🔹 MAPE         : 2.40%
+🔹 NMAE         : 3.8468
+🔹 Cars tested  : 1158 / 1158
+💾 Saved predictions to: ../outputs/eval/cd_predictions_test_design_ids.csv
+------------------------------------------------------------
